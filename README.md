@@ -13,6 +13,5 @@
   <li>HTML & CSS</li>
   <li>Tailwind</li>
   <li>Java</li>
-  <li>C/C++</li>
   <li>Python</li>
 </ul>
