@@ -6,7 +6,7 @@
 
 #### Get to know me!
 
-<p> I'm currently a third year student in De La Salle University. At the same time, I work part-time as a Math tutor and academic commissioner. These are some of the languages and tools I work with: </p>
+<p> I'm currently a fourth year student in De La Salle University. At the same time, I work part-time as a Math tutor and academic commissioner. These are some of the languages and tools I work with: </p>
 
 <ul>
   <li>JavaScript</li>
