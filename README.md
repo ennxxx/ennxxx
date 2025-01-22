@@ -9,9 +9,9 @@
 <p> I'm currently a third year student in De La Salle University. At the same time, I work part-time as a Math tutor and academic commissioner. These are some of the languages and tools I work with: </p>
 
 <ul>
-  <li>Javascript</li>
+  <li>JavaScript</li>
   <li>HTML & CSS</li>
   <li>Tailwind</li>
-  <li>Java</li>
+  <li>React</li>
   <li>Python</li>
 </ul>
