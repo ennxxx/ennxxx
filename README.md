@@ -1,17 +1,5 @@
-### ˚₊· ͟͟͞͞➳❥ Hey, I'm Enxi
+### ˚₊· ͟͟͞͞➳❥ hey, i'm enxi!
 
-<p> I'm an aspiring web developer and artist based in the Philippines. I love doing art and designing new applications. I have a great interest in improving my frontend skills and I'm always excited to learn new things. </p>
+<p> i'm a site reliability engineer and part-time artist based in the philippines. i love doing art and building applications. i have a great interest in automation and devsecops work, and i'm always excited to learn new things (˶ˆᗜˆ˵)</p>
 
-<img align="right" src="https://i.pinimg.com/564x/38/97/37/38973776d5cc0a1eca4ef7090135a2b6.jpg" width="250" height="250" />
-
-#### Get to know me!
-
-<p> I'm currently a fourth year student in De La Salle University. At the same time, I work part-time as a Math tutor and academic commissioner. These are some of the languages and tools I work with: </p>
-
-<ul>
-  <li>JavaScript</li>
-  <li>HTML & CSS</li>
-  <li>Tailwind</li>
-  <li>React</li>
-  <li>Python</li>
-</ul>
+<img src="https://waveify.onrender.com/api/terminal?commands=git+checkout+-b+feature%2Fcreate-intro%2Cgit+add+.%2Cgit+commit+-m+%22Edit+README+file%22%2Cgit+push+origin+feature%2Fcreate-intro%2C%E2%9C%93+Feature+branch+pushed+successfully&theme=modern&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto&backgroundColor=%23000000" alt="Terminal Demo">
